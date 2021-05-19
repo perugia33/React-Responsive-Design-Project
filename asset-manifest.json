@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Responsive-Design-Project/static/css/main.8b89759e.chunk.css",
+    "main.js": "/React-Responsive-Design-Project/static/js/main.dc89b26e.chunk.js",
+    "main.js.map": "/React-Responsive-Design-Project/static/js/main.dc89b26e.chunk.js.map",
+    "runtime-main.js": "/React-Responsive-Design-Project/static/js/runtime-main.d7df4a99.js",
+    "runtime-main.js.map": "/React-Responsive-Design-Project/static/js/runtime-main.d7df4a99.js.map",
+    "static/js/2.15d4e3f9.chunk.js": "/React-Responsive-Design-Project/static/js/2.15d4e3f9.chunk.js",
+    "static/js/2.15d4e3f9.chunk.js.map": "/React-Responsive-Design-Project/static/js/2.15d4e3f9.chunk.js.map",
+    "static/js/3.ecdd3a3d.chunk.js": "/React-Responsive-Design-Project/static/js/3.ecdd3a3d.chunk.js",
+    "static/js/3.ecdd3a3d.chunk.js.map": "/React-Responsive-Design-Project/static/js/3.ecdd3a3d.chunk.js.map",
+    "index.html": "/React-Responsive-Design-Project/index.html",
+    "static/css/main.8b89759e.chunk.css.map": "/React-Responsive-Design-Project/static/css/main.8b89759e.chunk.css.map",
+    "static/js/2.15d4e3f9.chunk.js.LICENSE.txt": "/React-Responsive-Design-Project/static/js/2.15d4e3f9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-Responsive-Design-Project/static/media/bg-intro-desktop.059183ee.png",
+    "static/media/logo.6ce24c58.svg": "/React-Responsive-Design-Project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7df4a99.js",
+    "static/js/2.15d4e3f9.chunk.js",
+    "static/css/main.8b89759e.chunk.css",
+    "static/js/main.dc89b26e.chunk.js"
+  ]
+}
